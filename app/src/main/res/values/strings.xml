@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WensAmbulanceApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Openstaande Wensen</string>
+    <string name="menu_documents">Dossiers toevoegen</string>
+    <string name="menu_account">Mijn Account</string>
+    <string name="menu_rules_agreements">Overeenkomsten</string>
+    <string name="menu_logout">Uitloggen</string>
+    <string name="fullName">%s %s</string>
+</resources>

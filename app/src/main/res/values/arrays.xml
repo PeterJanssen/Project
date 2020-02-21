@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="diplomas">
+        <item>Biomedische Laboratoriumtechnologie</item>
+        <item>Mondzorg</item>
+        <item>Verpleegkunde</item>
+        <item>Voedings- en dieetkunde</item>
+        <item>Vroedkunde</item>
+        <item>Geestelijke Gezondheidszorg</item>
+        <item>Intensieve zorg en spoedgevallenzorg</item>
+        <item>Oncologie</item>
+        <item>Pediatrie en neonatologie</item>
+        <item>Eerstelijnszorg</item>
+        <item>Hartfalen</item>
+        <item>Psychiatrie en geestelijke gezondheidszorg</item>
+    </string-array>
+
+    <string-array name="specializations">
+        <item>Anesthesie-Reanimatie</item>
+        <item>Arbeidsgeneeskunde</item>
+        <item>Cardiologie</item>
+        <item>Dermatovenereologie</item>
+        <item>Endocrinodiabetologie</item>
+        <item>Fysische geneeskunde</item>
+        <item>Gastro-enterologie</item>
+        <item>Geriatrie</item>
+        <item>Gynaecologie en verloskunde</item>
+        <item>Huisartsgeneeskunde</item>
+        <item>Intensieve zorgen</item>
+        <item>Inwendige geneeskunde</item>
+        <item>KlinischeBiologie</item>
+        <item>Mond-, kaak- en aangezichtschirurgie</item>
+        <item>Nefrologie</item>
+    </string-array>
+
+    <string-array name="tShirtSizes">
+        <item>XS</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+    </string-array>
+</resources>

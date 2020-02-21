@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "679302688473",
+    "firebase_url": "https://wensambulance-e7493.firebaseio.com",
+    "project_id": "wensambulance-e7493",
+    "storage_bucket": "wensambulance-e7493.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679302688473:android:81360811453e78938298c8",
+        "android_client_info": {
+          "package_name": "com.example.wensambulanceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679302688473-92fmbgtttj51lcbjis4u4ps2lvtaj484.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wensambulanceapp",
+            "certificate_hash": "2b1efa35c437ed00037d4e29eed2f931ceae13c5"
+          }
+        },
+        {
+          "client_id": "679302688473-htguetnr4qchisufcdgi5focjboees14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV9xoBM4Jxs0rIH7AIjWQ48JzIvQpf-0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679302688473-htguetnr4qchisufcdgi5focjboees14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
